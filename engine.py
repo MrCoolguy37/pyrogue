@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import tcod as libtcod
 
 from components.fighter import Fighter
